@@ -8,7 +8,7 @@ PvPKing Client is a all around FPS Boosting client and is the best way to play o
 N/A
 
 # Discord:
-https://discord.gg/cHx2B25
+[Discord] (https://discord.gg/cHx2B25)
 
 # Contact the Creator: 
 Hythen#8151
