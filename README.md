@@ -7,9 +7,6 @@ PvPKing Client is a all around FPS Boosting client and is the best way to play o
 # Release Date - 
 N/A
 
-# Download Link: 
-https://pvpking-client.github.io/clientdownload.com/
-
 # Discord:
 https://discord.gg/cHx2B25
 
