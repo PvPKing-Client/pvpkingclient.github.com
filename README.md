@@ -4,13 +4,17 @@
 
 PvPKing Client is a all around FPS Boosting client and is the best way to play on the PvPKing minecraft server!
 
-# Release Date - N/A
+# Release Date - 
+N/A
 
-# Download Link: https://pvpking-client.github.io/clientdownload.com/
+# Download Link: 
+https://pvpking-client.github.io/clientdownload.com/
 
-# Discord:https://discord.gg/cHx2B25
+# Discord:
+https://discord.gg/cHx2B25
 
-# Contact the Creator: Hythen#8151
+# Contact the Creator: 
+Hythen#8151
 
-<input class="button" type="submit" value="Post comment (https://pvpking-client.github.io/clientdownload.com/)">
+
 
