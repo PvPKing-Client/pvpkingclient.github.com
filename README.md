@@ -12,9 +12,6 @@ PvPKing Client is a all around FPS Boosting client and is the best way to play o
 
 # Contact the Creator: Hythen#8151
 
-<div class="button-group minor-group">
-    <a href="#" class="button primary">Dashboard</a>
-    <a href="#" class="button">Inbox</a>
-    <a href="#" class="button">Account</a>
-    <a href="#" class="button">Logout</a>
-</div>
+<a href="#" class="Download Page">Post comment (https://pvpking-client.github.io/clientdownload.com/)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
